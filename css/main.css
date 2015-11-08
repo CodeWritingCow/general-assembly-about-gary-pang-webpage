@@ -17,9 +17,15 @@ body {
     font-weight: 900;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 320px) {
     .gary-pang-banner {
-    font-size: 41px;
+    font-size: 34px;
+    }
+}
+
+@media (min-width: 480px) {
+    .gary-pang-banner {
+    font-size: 55px;
     }
 }
 
